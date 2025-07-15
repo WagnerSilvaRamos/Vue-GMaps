@@ -4,6 +4,7 @@
 ```
 npm install
 ```
+#use version "vue": "^2.6.10"
 
 ### Compiles and hot-reloads for development
 ```
